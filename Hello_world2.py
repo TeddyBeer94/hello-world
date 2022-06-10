@@ -3,7 +3,7 @@
 # This file produce some printing
 
 print("Hello world")
-
+print("How are you ?")
 
 # We introduce some interaction with the user
 
